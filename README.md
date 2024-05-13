@@ -11,11 +11,9 @@ I. prima etapa: partea de mirror
 (jumatate din randuri) 
      -se initializeaza citirea  
     -se trece in urmatoarea stare 
- 
     -se trece randul de la zero 
     -se trece pe urmatoarea coloana 
-    -se reintoarce la inceputul starii 
-       
+    -se reintoarce la inceputul starii
     -se verifica finalizarea matricii de parcurs 
     -se finalizeaza procesul de MIRROR si se trece la urmatorul 
    3. SALVEZ_PIXEL: 
